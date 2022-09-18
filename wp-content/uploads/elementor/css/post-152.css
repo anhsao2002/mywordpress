@@ -1,0 +1,16 @@
+.elementor-152 .elementor-element.elementor-element-61c301a > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-152 .elementor-element.elementor-element-61c301a:not(.elementor-motion-effects-element-type-background), .elementor-152 .elementor-element.elementor-element-61c301a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#72768D;background-image:url("https://anhsao2002.github.io/mywordpress/wp-content/uploads/2022/09/tallinn-estonia-view-of-historical-rotermann-city-in-evening-illuminations-rotermann-quarter-includes-old-industrial-buildings-with-new-function-an-2B5XRR5_cleanup.jpg");}.elementor-152 .elementor-element.elementor-element-61c301a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:10px;margin-bottom:0px;}.elementor-152 .elementor-element.elementor-element-61c301a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-152 .elementor-element.elementor-element-59b9127{text-align:center;}.elementor-152 .elementor-element.elementor-element-59b9127 img{width:80%;}.elementor-152 .elementor-element.elementor-element-59b9127 > .elementor-widget-container{background-color:#000000;}.elementor-152 .elementor-element.elementor-element-d93adc3 .elementor-menu-toggle{margin:0 auto;}.elementor-152 .elementor-element.elementor-element-d93adc3 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-152 .elementor-element.elementor-element-d93adc3 .elementor-nav-menu--main .elementor-item{color:#ECECEC;fill:#ECECEC;}.elementor-152 .elementor-element.elementor-element-97a88c6 .elementor-menu-toggle{margin:0 auto;}.elementor-152 .elementor-element.elementor-element-97a88c6 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-152 .elementor-element.elementor-element-fb50499{color:#FFFFFF;font-family:"Arial", Sans-serif;font-size:18px;font-weight:400;}.elementor-152 .elementor-element.elementor-element-fb50499 > .elementor-widget-container{margin:0px 10px 0px 9px;}.elementor-152 .elementor-element.elementor-element-c3db2b6 .elementor-heading-title{color:#FFFFFF;font-family:"Arial", Sans-serif;font-size:62px;font-weight:600;}.elementor-152 .elementor-element.elementor-element-bf50040 .elementor-button{background-color:#FFFFFF00;border-style:solid;border-width:1px 1px 1px 1px;}.elementor-152 .elementor-element.elementor-element-bf50040 > .elementor-widget-container{margin:24px 24px 24px 24px;}@media(min-width:768px){.elementor-152 .elementor-element.elementor-element-a6d2245{width:22.527%;}.elementor-152 .elementor-element.elementor-element-e247a75{width:43.806%;}}/* Start custom CSS for section, class: .elementor-element-143b75a */.elementor-152 .elementor-element.elementor-element-143b75a {
+    border-bottom: 1px solid #fff;
+}
+
+.elementor-sticky--effects {
+   background:  #fff!important;
+   width: 100%!important;/* change the background color here*/
+}
+
+.elementor-sticky--effects .sticky-menu-items ul li a /* change the menu text color here*/ {
+   color: #191919!important;
+}
+
+.elementor-sticky--effects, .sticky-menu-items ul li a {
+  transition: .5s all ease-in-out;
+}/* End custom CSS */
